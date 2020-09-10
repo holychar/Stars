@@ -59,6 +59,11 @@ Repository who contains all my stars.
 - [OSINT Frameork](https://github.com/kpcyrd/sn0int)
 - [RustScan - Port Scanner](https://github.com/RustScan/RustScan)
 - [Network auth cracker](https://github.com/kpcyrd/badtouch)
+- [Navigate your filesystem](https://github.com/ajeetdsouza/zoxide/)
+- [minimalistic command launcher in rust](https://github.com/buster/rrun)
+- [Procs ps](https://github.com/dalance/procs)
+- [Bash-like](https://github.com/mitnk/cicada)
+- [Kernel manager and activity monitor](https://github.com/orhun/kmon)
 
 
 ### Shell
