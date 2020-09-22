@@ -11,6 +11,8 @@ Repository who contains all my stars.
 - [Powershell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
+- [Shell](#shell)
+- [KVM](#kvm)
 
 ### APT 
 
@@ -72,4 +74,6 @@ Repository who contains all my stars.
 - [Tools](https://github.com/doomedraven/Tools)
 
 
+### KVM
 
+- [barrier](https://github.com/debauchee/barrier)
