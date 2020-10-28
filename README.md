@@ -7,6 +7,7 @@ Repository who contains all my stars.
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C++](#c++)
+- [JavaScript](#javascript)
 - [Log](#logs)
 - [Powershell](#powershell)
 - [Python](#python)
@@ -33,6 +34,9 @@ Repository who contains all my stars.
 - [x64/32 debugger for windows](https://github.com/x64dbg/x64dbg)
 - [Public malware techniques used in the wild](https://github.com/LordNoteworthy/al-khaser)
 
+### JavaScript
+
+- [Pwndoc](https://github.com/pwndoc/pwndoc)
 
 ### Logs
 
